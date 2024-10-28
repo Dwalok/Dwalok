@@ -55,7 +55,7 @@ I'm a Cybersecurity graduate student based in France, pursuing a Master's degree
 ## 📫 Contact
 
 - 📧 Email: samuelvdh531@gmail.com
-- 🌐 Website: samuelvanderhoeven.fr
+- 🌐 Website: https://samuelvanderhoeven.fr
 - ℹ️ Linkedin: https://www.linkedin.com/in/samuel-van-der-hoeven-6a4a77251/
 
 
