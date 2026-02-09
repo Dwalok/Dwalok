@@ -1,76 +1,98 @@
 # Hey 👋 I'm Samuel Van der Hoeven
 
-I'm a Cybersecurity graduate student based in France, pursuing a Master's degree in Cyber Defense of Information Systems at INSA/UPHF. Passionate about cybersecurity, programming, and 3D modeling!
+🎓 Cybersecurity graduate student based in France, currently completing a **Master’s degree in Cyber Defense of Information Systems**.  
+🔐 Passionate about **cybersecurity, automation, system hardening**, and **infrastructure security**, with hands-on experience in real-world environments (Defense & critical systems).
+
+---
 
 ## 🛡️ Skills
 
-### Programming Languages:
+### 💻 Programming & Scripting
+- C, Java, Python, R  
+- PowerShell, Bash  
+- Web: HTML, CSS, JavaScript, PHP  
 
-- C, Java, Python, R
-- Web: HTML, CSS, JavaScript, PHP
-- Database: SQL, MangoDB
+### 🗄️ Databases
+- SQL (PostgreSQL, MySQL)  
+- MongoDB  
 
+### 🔐 Cybersecurity & IT
+- Network & System Security  
+- Cryptography & Secure File Transfers (PGP, FTPS)  
+- Risk Analysis (EBIOS)  
+- Scripting & Automation  
+- Technology Watch & Threat Awareness  
 
-### Security Tools & Knowledge:
+### 🧰 Tools
+- Nmap, Wireshark, Metasploit  
+- Docker, Linux, Windows Server  
+- Git, GitHub  
+- Raspberry Pi / Homelab environments  
 
-- Network Security Tools: Nmap, Wireshark, Metasploit
-- Systems & Networks
-- Cryptography
-- Scripting & Automation
-- Technology Watch
+---
 
 ## 🎯 Experience
 
-- **Co-Associate at MASC-IT (2023-2024)**
-  - Web & Software Development
-  - Database Management
-  - System Maintenance
-  - IT Equipment Repair
-  - Customer Service & Technical Support
+### **Cybersecurity Consultant Intern – CGI (2025)**
+📍 Toulouse – Defense / Physical Security sector  
+- Security analysis and risk assessment (EBIOS methodology)  
+- Work on sensitive and critical systems  
+- Automation and scripting for security-related tasks  
+- Participation in cybersecurity governance and compliance  
 
-- **Web Developer Intern at L'ILOT VENTS, Lille (2023)**
-  - Created website and intranet solutions
-  - Implemented storage server infrastructure
+### **Co-Associate – MASC-IT (2023–2024)**
+- Web & software development  
+- Database design and maintenance  
+- System administration & IT maintenance  
+- Cybersecurity audits and technical support  
+- Customer service & IT equipment repair  
+
+### **Web Developer Intern – L’Îlot Vents, Lille (2023)**
+- Development of websites and internal tools  
+- Deployment of storage server infrastructure  
+- Technical support and system optimization  
+
+---
 
 ## 🎓 Education
 
-- **Master's in Cyber Defense of Information Systems (2023-2025)**
-  - INSA / Université Polytechnique des Hauts de France
-  
-- **Bachelor's in Computer Science (2019-2023)**
-  - Université Polytechnique des Hauts de France
+- **Master’s Degree – Cyber Defense of Information Systems (2023–2025)**  
+  INSA / Université Polytechnique des Hauts-de-France  
+
+- **Bachelor’s Degree – Computer Science (2019–2023)**  
+  Université Polytechnique des Hauts-de-France  
+
+---
+
+## 📜 Certifications
+- Cisco Cybersecurity – Beginner  
+- Google Cloud Cybersecurity Certificate – Beginner  
+- TryHackMe (4000+ points, ongoing progression)
+
+---
 
 ## 🌟 Languages
+- 🇫🇷 French – Native  
+- 🇬🇧 English – B2 (Professional working proficiency)
 
-- French (Native)
-- English (B2 Level)
+---
+
+## 🧪 Personal Projects & Interests
+- Homelab & self-hosting (Docker, monitoring, backups, automation)  
+- Secure scripting & file encryption workflows  
+- IoT & Raspberry Pi projects  
+- 3D modeling & 3D printing  
+
+---
 
 ## 🎮 Hobbies
+- Badminton 🏸  
+- Running 🏃  
+- 3D Modeling & Printing 🖨️  
 
-- 3D Modeling & 3D Printing
-- Sports:
-  - Badminton
-  - Running
+---
 
 ## 📫 Contact
-
-- 📧 Email: samuelvdh531@gmail.com
-- 🌐 Website: https://samuelvanderhoeven.fr
-- ℹ️ Linkedin: https://www.linkedin.com/in/samuel-van-der-hoeven-6a4a77251/
-
-
-
-<!--
-**Dwalok/Dwalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 **Email:** samuelvdh531@gmail.com  
+- 🌐 **Website:** https://samuelvanderhoeven.fr  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/samuel-van-der-hoeven-6a4a77251/
