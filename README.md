@@ -122,11 +122,7 @@ I like building systems that are reliable, secure, documented, and actually usab
 
 ## 📫 Contact
 
-- Portfolio: [samuelvanderhoeven.fr](https://www.samuelvanderhoeven.fr)
+- Portfolio: [samuelvanderhoeven.fr](https://samuelvanderhoeven.fr/)
 - GitHub: [@Dwalok](https://github.com/Dwalok)
 - LinkedIn: [Samuel Van der Hoeven](https://www.linkedin.com/in/samuel-van-der-hoeven-6a4a77251/)
 
-## 📫 Contact
-- 📧 **Email:** samuelvdh531@gmail.com  
-- 🌐 **Website:** https://samuelvanderhoeven.fr  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/samuel-van-der-hoeven-6a4a77251/
